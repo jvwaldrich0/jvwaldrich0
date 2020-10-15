@@ -1,6 +1,4 @@
-![Alt text](images/Background.png?raw=true "Background")
-
-# Description:
+# 👨‍💻 João Vitor Waldrich
 
 - 📖 I currently study at IFSC and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
