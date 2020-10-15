@@ -13,7 +13,7 @@
 </a>
 
 
-## Projects
+### Projects
 
 
 <a href="https://github.com/jvwaldrich0">
@@ -28,7 +28,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=Cadastro&theme=dark" />
 </a>
 
-## Contact
+### Contact
 
 <a href="https://br.linkedin.com/in/jo%C3%A3o-vitor-waldrich-35065b197">
   <img alt="Meu Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
