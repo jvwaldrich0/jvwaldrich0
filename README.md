@@ -1,4 +1,4 @@
-# 👨‍💻 João Vitor Waldrich
+# 👨‍💻 Hi! I'm João Vitor Waldrich
 
 - 📖 I currently study at IFSC and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
@@ -13,7 +13,7 @@
 </a>
 
 
-##Projects
+## Projects
 
 
 <a href="https://github.com/jvwaldrich0">
@@ -37,7 +37,7 @@
   <img alt="Meu Github (uau, um link recursivo!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-##Email:
+## Email:
 
     jv.waldrich0@protonmail.com
 
