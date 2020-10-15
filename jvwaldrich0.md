@@ -1,5 +1,7 @@
 ![Alt text](images/Background.png?raw=true "Background")
+
 # Description:
+
 - 📖 I currently study at IFSC and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
 - 🙌 I’m looking to collaborate with other content creators
@@ -7,6 +9,7 @@
 - 💡 Fun fact: Every day I become a little more enthusiastic about programming
 
 ## Languages and Tools:
+
 <a href="https://github.com/jvwaldrich0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
 </a>
@@ -34,6 +37,7 @@
 </a>
 
 ###Email:
+
     jv.waldrich0@protonmail.com
 
 
