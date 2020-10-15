@@ -1,6 +1,6 @@
 # 👨‍💻 Hi! I'm João Vitor Waldrich
 
-- 📖 I currently study at IFSC and Blusoft's Entra21 program
+- 📖 I am studying at the Federal Institute of Santa Catarina (IFSC) and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
 - 🙌 I’m looking to collaborate with other content creators
 - 📅 2021 Goals: Contribute more to Open Source projects and find a job
