@@ -1,11 +1,15 @@
-# 👨‍💻 Hello! ![](back.gif)
+# 👨‍💻 Welcome!
+![](back.gif)
+
 - 📖 I am studying at the Federal Institute of Santa Catarina (IFSC) and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
 - 🙌 I’m looking to collaborate with other content creators
 - 📅 2021 Goals: Contribute more to Open Source projects and find a job
 - 💡 Fun fact: Every day I become a little more enthusiastic about programming
 
+
 ## Languages and Tools:
+<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="204" />
 
 <a href="https://github.com/jvwaldrich0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
@@ -49,6 +53,7 @@
 ### Email:
 
     jv.waldrich0@protonmail.com
+
 
 
 
