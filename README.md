@@ -25,6 +25,10 @@
 </a>
 
 <a href="https://github.com/jvwaldrich0/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=CSV-Creator_API-Basketball&theme=dark" />
+</a>
+
+<a href="https://github.com/jvwaldrich0/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=Cadastro&theme=dark" />
 </a>
 
