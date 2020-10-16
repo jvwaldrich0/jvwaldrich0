@@ -9,7 +9,6 @@
 
 
 ## Languages and Tools:
-<img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" height="204" />
 
 <a href="https://github.com/jvwaldrich0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
