@@ -1,6 +1,4 @@
 # 👨‍💻 Welcome!
-![](back.gif)
-
 - 📖 I am studying at the Federal Institute of Santa Catarina (IFSC) and Blusoft's Entra21 program
 - 👨‍ I’m currently learning everything 🤣
 - 🙌 I’m looking to collaborate with other content creators
