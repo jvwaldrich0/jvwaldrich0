@@ -6,18 +6,14 @@
 - 💡 Fun fact: Every day I become a little more enthusiastic about programming
 
 
-## Languages and Tools:
-
-<a href="https://github.com/jvwaldrich0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
-</a>
-
-
-### Projects
-
+## GitHub Status:
 
 <a href="https://github.com/jvwaldrich0">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvwaldrich0&show_icons=true&theme=dark&line_height=27" alt="Meus Stats do Github"/>
+</a>
+
+<a href="https://github.com/jvwaldrich0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&theme=dark&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/jvwaldrich0/">
@@ -33,7 +29,7 @@
 </a>
 
 <a href="https://github.com/jvwaldrich0/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=Cadastro&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvwaldrich0&repo=File-Organizer&theme=dark" />
 </a>
 
 
@@ -47,7 +43,7 @@
   <img alt="Meu Github (uau, um link recursivo!)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-### Email:
+#### Email:
 
     jv.waldrich0@protonmail.com
 
