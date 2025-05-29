@@ -36,7 +36,7 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jvwaldrich0&theme=default)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jvwaldrich0&theme=react-dark)
 
 ---
 
