@@ -47,6 +47,5 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ### 📊 GitHub Stats  
 
-![João Vitor’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jvwaldrich0&show_icons=true&count_private=true&theme=default)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvwaldrich0&layout=compact&theme=default)
+<!-- GitHub Trophy: achievements and trophies -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=default&no-frame=true&no-bg=true&margin-w=4)
