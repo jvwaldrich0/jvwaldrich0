@@ -5,7 +5,7 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ---
 
-🚀 **Engineer. Developer. Hacker. Learner.**  
+> 🚀 **Engineer. Developer. Hacker. Learner.**  
 
 ---
 
