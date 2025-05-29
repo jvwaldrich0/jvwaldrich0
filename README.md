@@ -45,5 +45,9 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ### 💰 Support my work  
 **(XMR) Monero:**  
-![Monero](https://cryptologos.cc/logos/monero-xmr-logo.svg?v=024) `87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
+<a href="https://www.getmonero.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cryptologos.cc/logos/monero-xmr-logo.svg?v=024" alt="Monero" width="20" height="20" style="vertical-align:middle" />
+</a>  
+`87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
+
 
