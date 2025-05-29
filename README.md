@@ -36,7 +36,7 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jvwaldrich0&theme=react-dark)
+![Commit Activity](https://github-readme-commit-activity.vercel.app/api?username=jvwaldrich0)
 
 ---
 
