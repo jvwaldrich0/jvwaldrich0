@@ -1,10 +1,12 @@
-# 👋 Hi, I’m João Vitor Waldrich
+# 👋 Grüß gott, I’m João Vitor Waldrich
 
 I’m a Software and Systems Engineer passionate about building reliable backend systems, automating workflows, and exploring cybersecurity through pentesting and security research.  
 I combine development and engineering skills with a hacker mindset to solve problems methodically and deliver practical solutions.  
 
+### 📊 GitHub Stats 
 <!-- GitHub Trophy: achievements and trophies -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
 ---
 
 ### 🔭 What I’m working on  
@@ -30,8 +32,7 @@ I combine development and engineering skills with a hacker mindset to solve prob
 ---
 
 ### 🌍 Citizenship  
-- Luxembourg 🇱🇺  
-- European Union 🇪🇺  
+- Luxembourg 🇱🇺 / European Union 🇪🇺  
 - Brazil 🇧🇷  
 
 ---
