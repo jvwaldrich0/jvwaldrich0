@@ -36,6 +36,10 @@ I combine development and engineering skills with a hacker mindset to solve prob
 
 ---
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jvwaldrich0&theme=default)
+
+---
+
 ### 📫 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvwaldrich0)  
