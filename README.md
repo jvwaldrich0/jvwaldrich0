@@ -47,4 +47,6 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 ### 💰 Support my work  
 - **(XMR) Monero:** `87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
 
+---
+
 > 💻 _Computers are like air conditioners, they become useless when you open Windows._
