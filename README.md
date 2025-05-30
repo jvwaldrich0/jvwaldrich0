@@ -4,7 +4,7 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 
 ---
 
-> 🚀 **Engineer. Developer. Hacker. Learner.**  ( _I use arch btw_ )
+> 🚀 **Engineer. Developer. Hacker. Learner.**  
 
 ---
 
@@ -45,3 +45,4 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 ### 💰 Support my work  
 - **(XMR) Monero:** `87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
 
+_I use arch btw_ 
