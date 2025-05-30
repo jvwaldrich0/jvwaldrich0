@@ -50,3 +50,5 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 ---
 
 > 💻 _Computers are like air conditioners, they become useless when you open Windows._
+
+---
