@@ -1,4 +1,4 @@
-# 👋 printf(" Grüß gott, I’m João Vitor Waldrich ");
+# 👋 printf(" Grüß gott, I’m João Vitor Waldrich 🇪🇺");
 
 I’m a Software and Systems Engineer passionate about building reliable backend systems, automating workflows, and exploring cybersecurity through pentesting and security research. I do combine development and engineering skills with a hacker mindset to solve problems methodically and deliver practical solutions.  
 
