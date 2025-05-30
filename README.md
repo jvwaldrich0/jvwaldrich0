@@ -7,7 +7,7 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 
 
 <!-- GitHub Trophy: achievements and trophies -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=darkhub&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=darkhub&no-frame=true&no-bg=true&column=5)
 
 ---
 
