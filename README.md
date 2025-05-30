@@ -2,12 +2,14 @@
 
 I’m a Software and Systems Engineer passionate about building reliable backend systems, automating workflows, and exploring cybersecurity through pentesting and security research. I do combine development and engineering skills with a hacker mindset to solve problems methodically and deliver practical solutions.  
 
-<!-- GitHub Trophy: achievements and trophies -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 > 🚀 **Engineer. Developer. Hacker. Learner.**  
+
+---
+
+<!-- GitHub Trophy: achievements and trophies -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
