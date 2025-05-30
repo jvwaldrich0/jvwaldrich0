@@ -41,8 +41,8 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvwaldrich.accounts@proton.me)  
 
 ---
+> _I use arch btw_
 
 ### 💰 Support my work  
 - **(XMR) Monero:** `87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
 
-> _I use arch btw_ 
