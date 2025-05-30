@@ -14,7 +14,7 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 ---
 
 ### 📫 Connect with me 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://yourwebsite.com](https://jvwaldrich0.github.io/jvwaldrich0-website/))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jvwaldrich0.github.io/jvwaldrich0-website/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvwaldrich.accounts@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvwaldrich0)
 <!--[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/yourphonenumber)
