@@ -2,7 +2,8 @@
 
 I’m a Software and Systems Engineer passionate about building reliable backend systems, automating workflows, and exploring cybersecurity through pentesting and security research. I do combine development and engineering skills with a hacker mindset to solve problems methodically and deliver practical solutions.  
 
-### 📫 Connect with me [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvwaldrich.accounts@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvwaldrich0) 
+### 📫 Connect with me 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvwaldrich.accounts@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jvwaldrich0) 
 
 ---
 
