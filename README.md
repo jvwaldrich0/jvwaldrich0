@@ -4,7 +4,7 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 
 ---
 
-> 🚀 **Engineer. Developer. Hacker. Learner.**  
+> 🚀 **Engineer. Developer. Hacker. Learner.**  ( _I use arch btw_ )
 
 ---
 
@@ -20,9 +20,9 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 - Vulnerability analysis and exploit development  
 
 ### ⚙️ Technologies & Tools  
-- Languages: Python, Go, JavaScript, Bash  
-- Frameworks: FastAPI, Node.js, Docker  
-- Tools: Git, Kubernetes, Terraform, Burp Suite  
+- Languages: Python, Go, JavaScript/TypeScript, Bash, Java, C++ or any language that do the work.  
+- Frameworks: FastAPI, Node.js, Django, Angular, Docker.
+- Tools: Git, Kubernetes, Terraform, Burp Suite, Wireshark, etc.
 
 ### 🌱 What I’m learning  
 - Advanced pentesting techniques  
