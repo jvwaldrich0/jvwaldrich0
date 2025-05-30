@@ -45,9 +45,7 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 ---
 
 ### 💰 Support my work  
-[![Monero](https://img.shields.io/badge/Monero-Donate-FF6600?style=for-the-badge&logo=monero&logoColor=white)](87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw)
-`87eTo8gvRTVUzMcfWCVcbQ1Z9ZjcvJY9DKq2traGgtrGQom3c9AqVBjPZm2yBfFPSrELNPu4Mx3QX3T5fCASbyv4CXd8isw`
-
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 ---
 
 > 💻 _Computers are like air conditioners, they become useless when you open Windows._
