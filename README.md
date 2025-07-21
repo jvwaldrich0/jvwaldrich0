@@ -30,7 +30,6 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 - Backend services and APIs  
 - Automation tools and scripts  
 - Penetration testing and security research  
-- Vulnerability analysis and exploit development  
 
 ### ⚙️ Technologies & Tools  
 - Languages: Python, Go, JavaScript/TypeScript, Bash, Java, C++ or any language that do the work.  
@@ -38,9 +37,9 @@ I’m a Software and Systems Engineer passionate about building reliable backend
 - Tools: Git, Kubernetes, Terraform, Burp Suite, Wireshark, etc.
 
 ### 🌱 What I’m learning  
-- Advanced pentesting techniques  
 - Exploit development  
-- Scalable system architecture  
+- Scalable system architecture
+- AWS Architecture
 
 ### 🌍 Citizenship  
 - Luxembourg 🇱🇺 / European Union 🇪🇺  
