@@ -1,7 +1,7 @@
 # 👋 printf(" Grüß gott, I’m João Vitor Waldrich ");
 
 <!-- GitHub Trophy: achievements and trophies -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&theme=darkhub&no-frame=true&no-bg=true&column=-1)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jvwaldrich0&no-frame=true&no-bg=true&column=-1)
 
 ---
 
